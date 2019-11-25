@@ -1,0 +1,28 @@
+
+
+.tile {
+    display: inline-flex;
+    background-color: #42b842;
+
+}
+
+.grass {
+    /* background-image: url('../../tiles/grass-tile.png'); */
+        background-color: #42b842;
+}
+
+.rock {
+    /* background-color: rgb(104, 76, 24); */
+    background-image: url('../../tiles/grass-tile-3.png');
+
+}
+
+.tree {
+    background-color: rgb(92, 118, 190);
+}
+
+.chest {
+    background-image: url('../../tiles/tree40by40.png');
+}
+
+
